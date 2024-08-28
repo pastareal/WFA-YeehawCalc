@@ -1,0 +1,10 @@
+C:\Users\kak\Desktop\code\vs2019\YeehawCalc\YeehawCalc\bin\Debug\YeehawCalc.exe.config
+C:\Users\kak\Desktop\code\vs2019\YeehawCalc\YeehawCalc\bin\Debug\YeehawCalc.exe
+C:\Users\kak\Desktop\code\vs2019\YeehawCalc\YeehawCalc\bin\Debug\YeehawCalc.pdb
+C:\Users\kak\Desktop\code\vs2019\YeehawCalc\YeehawCalc\obj\Debug\YeehawCalc.csproj.AssemblyReference.cache
+C:\Users\kak\Desktop\code\vs2019\YeehawCalc\YeehawCalc\obj\Debug\YeehawCalc.Form1.resources
+C:\Users\kak\Desktop\code\vs2019\YeehawCalc\YeehawCalc\obj\Debug\YeehawCalc.Properties.Resources.resources
+C:\Users\kak\Desktop\code\vs2019\YeehawCalc\YeehawCalc\obj\Debug\YeehawCalc.csproj.GenerateResource.cache
+C:\Users\kak\Desktop\code\vs2019\YeehawCalc\YeehawCalc\obj\Debug\YeehawCalc.csproj.CoreCompileInputs.cache
+C:\Users\kak\Desktop\code\vs2019\YeehawCalc\YeehawCalc\obj\Debug\YeehawCalc.exe
+C:\Users\kak\Desktop\code\vs2019\YeehawCalc\YeehawCalc\obj\Debug\YeehawCalc.pdb
